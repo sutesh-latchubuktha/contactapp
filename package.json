@@ -2,7 +2,7 @@
   "name": "contactapp",
   "version": "1.0.0",
   "description": "contact book",
-  "main": "contactapp.js",
+  "main": "nodemon contactapp.js",
   "scripts": {
     "script":"contactapp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
