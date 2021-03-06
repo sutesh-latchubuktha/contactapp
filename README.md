@@ -12,4 +12,4 @@ main folder-contactapp
                                     -home.css
                                -js:
                                     -home.js
-Required depencies:express,nodemon.
+Required depencies:express,nodemon
