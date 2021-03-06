@@ -1,5 +1,5 @@
 # contactapp
-this repository consists of code for creating contact app using nodejs,expressjs,EJS and styling using css
+This repository consists of code for creating contact app using nodejs,expressjs,EJS and styling using css
 typical structure:
 main folder-contactapp
                       -contactapp.js
