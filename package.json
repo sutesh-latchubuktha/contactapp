@@ -4,6 +4,7 @@
   "description": "contact book",
   "main": "contactapp.js",
   "scripts": {
+    "script":"contactapp.js";
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sutesh",
